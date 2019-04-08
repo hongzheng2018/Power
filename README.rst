@@ -1,5 +1,6 @@
 Power
 =====
+
 .. image:: https://travis-ci.org/Kentzo/Power.svg?branch=master
     :target: https://travis-ci.org/Kentzo/Power
 .. image:: https://codecov.io/gh/Kentzo/Power/branch/master/graph/badge.svg
@@ -24,7 +25,8 @@ Crossplatform (Windows, Linux, Mac OS X, FreeBSD) python module to access power 
 
 Examples
 --------
-
+--------
+--------
 Until we expand the documentation please have a look in power/tests.py
 
 
